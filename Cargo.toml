@@ -1,0 +1,8 @@
+[package]
+name = "aminoacs"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+jieba-rs = "0.7.0"
+pinyin = "0.10.0"
